@@ -1,0 +1,4 @@
+url=http://google.com
+browser=chrome
+search= //input[@title='Search']
+searchbutton=//div[@class='FPdoLc VlcLAe']//input[@value='Google Search']
